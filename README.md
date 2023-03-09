@@ -1,1 +1,2 @@
 # Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning
+Using data analysis and machine learning techniques, I built models that predicted customer personality and provided business insights to enhance marketing campaign performance and target the correct customers to transact on the company's platform. Additionally, I utilized these techniques to identify patterns and trends in customer behavior and personality, ultimately providing recommendations and insights to the company to improve customer acquisition, retention, and revenue.
